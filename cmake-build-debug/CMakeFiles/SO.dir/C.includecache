@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/virdze/UNI/SO/Guiao2/Ex4.c
+unistd.h
+-
+stdio.h
+-
+sys/wait.h
+-
+
+/home/virdze/UNI/SO/Guiao2/Ex5.c
+unistd.h
+-
+stdio.h
+-
+sys/wait.h
+-
+
+/home/virdze/UNI/SO/Guiao2/Ex6.c
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+

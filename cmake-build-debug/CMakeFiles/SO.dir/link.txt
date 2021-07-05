@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/SO.dir/Guiao2/Ex3.c.o CMakeFiles/SO.dir/Guiao2/Ex4.c.o CMakeFiles/SO.dir/Guiao2/Ex5.c.o CMakeFiles/SO.dir/Guiao2/Ex6.c.o CMakeFiles/SO.dir/Guiao2/tmp.c.o -o SO 
