@@ -6,7 +6,7 @@ int main(int argc, char** argv){
 
 
     printf("mensagem 1\n ");
-    //Exercicio 1 resume-se a esta alinea
+    //Exercicio1 resume-se a esta alinea
     //ret = execl("/bin/ls","/bin/ls","-l",NULL);
 
 
